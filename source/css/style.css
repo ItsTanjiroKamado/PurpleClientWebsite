@@ -39,7 +39,7 @@ body {
 }
  
 .top {
-    margin-top: 40vh;
+    margin-top: 29vh;
 }
 
 .bottom {
@@ -57,4 +57,41 @@ body {
     margin-right: auto;
     margin-top: 20px;
     margin-bottom: 10px
+}
+
+.buttons {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    font-size: 50px !important;
+}
+
+.buttons a {
+    margin-left: 40px;
+}
+
+.buttons i {
+    color: var(--purpz);
+}
+.github {
+    color: var(--purpz);
+    transition: color 0.3s linear;
+}
+.github:hover {
+    color: white !important;
+}
+.download{
+    color: var(--purpz);
+    transition: color 0.3s linear;
+}
+.download:hover {
+    color: cyan !important;
+}
+
+.mail{
+    color: var(--purpz);
+    transition: color 0.3s linear;
+}
+.mail:hover {
+    color: rgb(248, 48, 75) !important;
 }
