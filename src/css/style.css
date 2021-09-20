@@ -1,11 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,500;0,600;1,100;1,500;1,600&display=swap');
 
 :root {
-    --body: #1A0D1C;
     --gray: #9fa0a9;
     --dark-grey: #5c5c67;
 }
 
 body {
-    background-color: var(--body);
+    background-color:#1A0D1C;
 } 
