@@ -4,6 +4,7 @@
     --body: #1A0D1C;
     --gray: #9fa0a9;
     --dark-grey: #5c5c67;
+    --purpz: #BF55EC;
 }
 
 body {
@@ -21,3 +22,11 @@ body {
     text-align: center;
     margin-top: 40vh;
 }
+ .p1 {
+     font-family: 'Poppins', sans-serif;
+     color: var(--gray);
+ }
+ 
+ .purpz {
+    color: var(--purpz)
+ }
