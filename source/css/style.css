@@ -43,21 +43,12 @@ body {
 }
 
 .bottom {
-    margin-bottom: 100px;
+    margin-top: 33.5vh;
 }
 
  .purpz {
     color: var(--purpz)
  }
- .footer-underline {
-    height: 1.5px;
-    width: 100%;
-    background: rgba(255, 255, 255, 0.1) 0%;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 20px;
-    margin-bottom: 10px
-}
 
 .buttons {
     margin-top: 20px;
