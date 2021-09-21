@@ -5,6 +5,7 @@
     --gray: #9fa0a9;
     --dark-grey: #5c5c67;
     --purpz: #BF55EC;
+    --dark-purpz: #763293;
 }
 
 body {
@@ -62,17 +63,17 @@ body {
 }
 
 .buttons i {
-    color: var(--purpz);
+    color: var(--dark-purpz);
 }
 .github {
-    color: var(--purpz);
+    color: var(--dark-purpz);
     transition: color 0.3s linear;
 }
 .github:hover {
     color: white !important;
 }
 .download{
-    color: var(--purpz);
+    color: var(--dark-purpz);
     transition: color 0.3s linear;
 }
 .download:hover {
@@ -80,7 +81,7 @@ body {
 }
 
 .mail{
-    color: var(--purpz);
+    color: var(--dark-purpz);
     transition: color 0.3s linear;
 }
 .mail:hover {
@@ -88,7 +89,7 @@ body {
 }
 
 .discord{
-    color: var(--purpz);
+    color: var(--dark-purpz);
     transition: color 0.3s linear;
 }
 .discord:hover {
